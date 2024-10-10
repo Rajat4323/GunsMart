@@ -1,11 +1,17 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  images: {
+    domains: ['images.guns.com'],
+  },
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: '/mainpage',
+        permanent: true, 
+      },
+    ];
+  },
+};
 
-   
-        images: {
-          domains: ['images.guns.com'],
-        },
-      
-}
-
-module.exports = nextConfig
+module.exports = nextConfig;
