@@ -8,7 +8,7 @@ Guns-Mart is a modern guns shopping app built with Next.js, React, and other tec
 - Add items to the shopping cart.
 - Increase, decrease and remove items from the cart.
 - Responsive design for a great user experience on various devices.
-- Used Demo profile named "Aman Agrawal".
+- Used Demo profile named "Rajat Kumar".
 - Implemented payment gateway with "Stripe".
 ## Technologies Used
 
