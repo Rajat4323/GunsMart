@@ -24,8 +24,7 @@ Guns-Mart is a modern guns shopping app built with Next.js, React, and other tec
 
 ## Visit the Website
 
-Explore the Guns-Mart app by visiting [https://gunmart.vercel.app/mainpage](https://gunmart.vercel.app/mainpage).
-
+Explore the Guns-Mart app by visiting [https://guns-mart.vercel.app](https://gunmart.vercel.app).
 ## Pages to Visit
 
 - **Mainpage:** Browse through the sample collection of guns.
